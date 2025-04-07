@@ -1,7 +1,3 @@
-Sure! Here's a professionally rewritten version of your `README.md` for the **Fake News Detection** project:
-
----
-
 # 📰 Fake News Detection
 
 
@@ -93,6 +89,3 @@ Results and performance comparisons are documented in the respective script file
 
 This project is open-source and built for educational and research purposes.
 
----
-
-Let me know if you want a version with badges, setup instructions for Jupyter, or want to turn this into a web app with Streamlit or FastAPI!
