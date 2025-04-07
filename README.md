@@ -4,7 +4,6 @@ Sure! Here's a professionally rewritten version of your `README.md` for the **Fa
 
 # 📰 Fake News Detection
 
-![Fake-News-Detection](https://socialify.git.ci/kapilsinghnegi/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 ## 🔍 Overview
 
